@@ -1,7 +1,7 @@
 # UI-Element_2D
 Unity 2D projekts ar UI elementu lietojumu
 
-**Veicamo uzdevumu saraksts:
+**Veicamo uzdevumu saraksts:**
 - [ ] Button elements
 - [ ] Text elements
 - [ ] Input Field elements

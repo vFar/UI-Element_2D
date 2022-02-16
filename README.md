@@ -10,4 +10,5 @@ Unity 2D projekts ar UI elementu lietojumu
 - [ ] Panel element
 - [ ] Slider element
 - [ ] Audio source element
+- [ ] Drop down elements
 - [x] C# skriptu izveide

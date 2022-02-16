@@ -2,12 +2,12 @@
 Unity 2D projekts ar UI elementu lietojumu
 
 **Veicamo uzdevumu saraksts:**
-- [ ] Button elements
-- [ ] Text elements
-- [ ] Input Field elements
-- [ ] Toggle elements
-- [ ] Image elements
+- [x] Button elements
+- [x] Text elements
+- [x] Input Field elements
+- [x] Toggle elements
+- [x] Image elements
 - [ ] Panel element
 - [ ] Slider element
 - [ ] Audio source element
-- [ ] C# skriptu izveide
+- [x] C# skriptu izveide

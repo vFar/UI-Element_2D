@@ -16,7 +16,4 @@ public class TekstaParadisana : MonoBehaviour {
 		text = inputField.GetComponent<Text>().text;
 		outputText.GetComponent<Text> ().text = "Sveiks, " + text.ToUpper()+" !";
 	}
-
-
-
 }

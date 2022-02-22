@@ -7,8 +7,8 @@ Unity 2D projekts ar UI elementu lietojumu
 - [x] Input Field elements
 - [x] Toggle elements
 - [x] Image elements
-- [ ] Panel element
-- [ ] Slider element
-- [ ] Audio source element
-- [ ] Drop down elements
+- [x] Panel element
+- [x] Slider element
+- [x] Audio source element
+- [x] Drop down elements
 - [x] C# skriptu izveide
